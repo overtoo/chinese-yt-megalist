@@ -1,7 +1,22 @@
-# Astute3394's chinese learning youtube megalist
+#  Chinese Learning Resources
 
 
-## Chinese Youtube Clear-Out
+
+## Zim.ai list
+
+[家有儿女 (Jiā yǒu érnǚ) Home with Kids](https://www.youtube.com/watch?v=PC3DmhI-3tU&list=PLO1KXMn-Zv0ImMjoFJq-ReoQmbz8OPhsI) - I retrained my segmentation model for improved OCR @wibr (first 26 episodes)
+
+[爱情公寓 (Àiqíng Gōngyù)](https://www.youtube.com/watch?v=mV0HQj44vtM&list=PLIN-ht974xkghS7BpJmiyfg5WZXp7ZWEH&index=1) iPartment (first season)
+
+[人民的名义 (Rénmín de míngyì) In the Name of the People](https://www.youtube.com/watch?v=A74YChOkSpY&list=PLJpCdaWK6PVo7yhl9Hl9oTmoa0vz191Ev)
+
+[摩天大楼 (Mótiān dàlóu) A Murderous Affair in Horizon Tower](https://www.youtube.com/watch?v=qK7yGoxRhEM&list=PLrft65fJ0IqNYDkvCc9sS7WJMan8cqvA6)
+
+[三国演义 (Sānguó yǎnyì) Romance of the Three Kingdoms](https://www.youtube.com/watch?v=l6CAK4oXXD0&list=PLl1tFfNgLYaanNTyzG6J9IfNuRYsm5chP) This is the 2010 version that I've heard is supposed to be good
+
+[开端 (Kāiduān)](https://www.youtube.com/watch?v=0BpqrU3D-TU&list=RDCMUCteBLoijWzlVFSR5BBtS_2Q) Reset
+
+## Astute's Chinese Youtube Clear-Out
 
 https://www.youtube.com/@ebchalfnhalf
 
@@ -530,17 +545,3 @@ https://www.youtube.com/@HunDouZui
 https://www.youtube.com/@CrocodileBoy26
 
 
-
-# Zim.ai list
-
-[家有儿女 (Jiā yǒu érnǚ) Home with Kids](https://www.youtube.com/watch?v=PC3DmhI-3tU&list=PLO1KXMn-Zv0ImMjoFJq-ReoQmbz8OPhsI) - I retrained my segmentation model for improved OCR @wibr (first 26 episodes)
-
-[爱情公寓 (Àiqíng Gōngyù)](https://www.youtube.com/watch?v=mV0HQj44vtM&list=PLIN-ht974xkghS7BpJmiyfg5WZXp7ZWEH&index=1) iPartment (first season)
-
-[人民的名义 (Rénmín de míngyì) In the Name of the People](https://www.youtube.com/watch?v=A74YChOkSpY&list=PLJpCdaWK6PVo7yhl9Hl9oTmoa0vz191Ev)
-
-[摩天大楼 (Mótiān dàlóu) A Murderous Affair in Horizon Tower](https://www.youtube.com/watch?v=qK7yGoxRhEM&list=PLrft65fJ0IqNYDkvCc9sS7WJMan8cqvA6)
-
-[三国演义 (Sānguó yǎnyì) Romance of the Three Kingdoms](https://www.youtube.com/watch?v=l6CAK4oXXD0&list=PLl1tFfNgLYaanNTyzG6J9IfNuRYsm5chP) This is the 2010 version that I've heard is supposed to be good
-
-[开端 (Kāiduān)](https://www.youtube.com/watch?v=0BpqrU3D-TU&list=RDCMUCteBLoijWzlVFSR5BBtS_2Q) Reset
